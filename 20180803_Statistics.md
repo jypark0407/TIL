@@ -75,4 +75,8 @@ https://www.thoughtco.com/example-of-a-hypothesis-test-3126398
 H0 귀무가설
 H1 검정가설
 2. 유의구간 지정
+<<<<<<< HEAD
 귀무가설이
+=======
+귀무가설이 
+>>>>>>> 9f0240531d035301f186492cc4893cf80398da71
