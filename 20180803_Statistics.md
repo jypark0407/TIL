@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Basic Statistics
 
 Setting Statistical Hypothesis 가설검정 단계 
@@ -70,3 +71,20 @@ https://www.thoughtco.com/example-of-a-hypothesis-test-3126398
 
 
 
+=======
+# Github로 취직하기
+* 꾸준히 커밋해서 초록색 숲을 가꾸기
+" 커밋할 때 메세지 잘 써주기 - 소문자로, 현재형 사용하기
+* 깃헙 정적 페이지 잘 가꾸면 유리.
+
+# 은지님의 특강
+* 대기업 조직 생활 힘들다
+
+# Statistics
+- 가설 검정
+1. 가설 설정
+H0 귀무가설
+H1 검정가설 
+2. 유의구간 지정
+귀무가설이 
+>>>>>>> 737134fc34f99c3a83a920b460c51edead6a32fd
