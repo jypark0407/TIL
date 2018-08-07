@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Basic Statistics
 
 Setting Statistical Hypothesis 가설검정 단계 
@@ -87,4 +86,3 @@ H0 귀무가설
 H1 검정가설 
 2. 유의구간 지정
 귀무가설이 
->>>>>>> 737134fc34f99c3a83a920b460c51edead6a32fd
